@@ -113,7 +113,7 @@ class SeedDataCommand extends Command
             1000,
             function ($posts) {
                 $links = [];
-                $ids = Tag::inRandomOrder()->limit(3)->get()->pluck('id')->toArray();
+                $ids = Tag::query()->limit(50)->get()->random(3)->pluck('id')->toArray();
                 $posts->each(
                     function ($post) use ($ids, &$links) {
                         foreach ($ids as $id) {
