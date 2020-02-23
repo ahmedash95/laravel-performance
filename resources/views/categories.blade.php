@@ -17,7 +17,7 @@
         <tr>
             <td class="border-b px-4 py-2">{{ $category->name }}</td>
             <td class="border-b px-4 py-2 text-center">
-                {{ $category->posts->count() }}
+                {{ $category->posts_count }}
             </td>
             <td class="border-b px-4 py-2">#</td>
         </tr>

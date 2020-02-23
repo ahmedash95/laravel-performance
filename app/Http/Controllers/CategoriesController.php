@@ -9,7 +9,7 @@ class CategoriesController extends Controller
 {
     public function index()
     {
-        $categories = Category::paginate(50);
+        $categories = Category::withCount('posts')->paginate(50);
 
         return view('categories',[
             'name' => 'Categories',
