@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a498c09-7dd1-466d-b985-4602d6ac180b" name="Default Changelist" comment="" />
+    <list default="true" id="8a498c09-7dd1-466d-b985-4602d6ac180b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/categories.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/navbar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/page.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/posts.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/tags.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -104,6 +118,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YBMuBLIC7WhnxQX6Qff2pjhZ2V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -111,8 +126,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -130,7 +152,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582411755179</updated>
-      <workItem from="1582411760172" duration="93000" />
+      <workItem from="1582411760172" duration="4238000" />
+      <workItem from="1582462175710" duration="4198000" />
     </task>
     <servers />
   </component>
@@ -138,9 +161,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1582411786950">
+    <state x="368" y="175" width="703" height="518" key="find.popup" timestamp="1582415303504">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1582411786950" />
+    <state x="368" y="175" width="703" height="518" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1582415303504" />
+    <state x="385" y="197" width="670" height="675" key="run.anything.popup" timestamp="1582411884684">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="385" y="197" width="670" height="675" key="run.anything.popup/0.23.1440.823@0.23.1440.823" timestamp="1582411884684" />
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1582466779017">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1582466779017" />
   </component>
 </project>

@@ -1,0 +1,31 @@
+<nav class="h-20 bg-blue-900 px-8 pt-2 flex items-center">
+    <div id="right" class="w-4/5 flex">
+        <div class="flex items-center">
+            <img class="w-12 h-12" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNjQgNjQiIGhlaWdodD0iNjRweCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgNjQgNjQiIHdpZHRoPSI2NHB4IiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBpZD0iTGF5ZXJfMSI+PGc+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgZmlsbD0iIzRGNUQ3MyIgcj0iMzIiLz48L2c+PGcgb3BhY2l0eT0iMC4yIj48cGF0aCBkPSJNMzIuMDk2LDM5LjY4MmMtMS41NTYsMS41NTYtNi4wODcsMTIuNTQtNi4wODcsMTIuNTRjLTAuNjY1LDEuMjA4LDAuMzMsMi4wODUsMi41OTMsMC45MzZsOC4xMzEtNC40MzUgICAgYzQuMzgxLTIuNDM1LDUuMjI4LTMuMDcxLDUuMTctOC4wMjhsLTAuODE1LTUuODUzYy0wLjI3OS0yLjAwNS0xLjc4LTIuMzczLTMuMzM2LTAuODE3TDMyLjA5NiwzOS42ODJ6IiBmaWxsPSIjMjMxRjIwIi8+PC9nPjxnIG9wYWNpdHk9IjAuMiI+PHBhdGggZD0iTTI3LjA3MiwzNC42NThjLTEuNTU2LDEuNTU2LTEyLjU0LDYuMDg3LTEyLjU0LDYuMDg3Yy0xLjIwOCwwLjY2NS0yLjA4NS0wLjMzLTAuOTM2LTIuNTkzbDQuNDM1LTguMTMxICAgIGMyLjQzNS00LjM4MSwzLjA3MS01LjIyOCw4LjAyOC01LjE3bDUuODUzLDAuODE1YzIuMDA1LDAuMjc5LDIuMzczLDEuNzgsMC44MTcsMy4zMzZMMjcuMDcyLDM0LjY1OHoiIGZpbGw9IiMyMzFGMjAiLz48L2c+PGc+PHBhdGggZD0iTTMyLjA5NiwzNy42ODJjLTEuNTU2LDEuNTU2LTYuMDg3LDEyLjU0LTYuMDg3LDEyLjU0Yy0wLjY2NSwxLjIwOCwwLjMzLDIuMDg1LDIuNTkzLDAuOTM2bDguMTMxLTQuNDM1ICAgIGM0LjM4MS0yLjQzNSw1LjIyOC0zLjA3MSw1LjE3LTguMDI4bC0wLjgxNS01Ljg1M2MtMC4yNzktMi4wMDUtMS43OC0yLjM3My0zLjMzNi0wLjgxN0wzMi4wOTYsMzcuNjgyeiIgZmlsbD0iI0M3NUM1QyIvPjwvZz48Zz48cGF0aCBkPSJNMjcuMDcyLDMyLjY1OGMtMS41NTYsMS41NTYtMTIuNTQsNi4wODctMTIuNTQsNi4wODdjLTEuMjA4LDAuNjY1LTIuMDg1LTAuMzMtMC45MzYtMi41OTNsNC40MzUtOC4xMzEgICAgYzIuNDM1LTQuMzgxLDMuMDcxLTUuMjI4LDguMDI4LTUuMTdsNS44NTMsMC44MTVjMi4wMDUsMC4yNzksMi4zNzMsMS43OCwwLjgxNywzLjMzNkwyNy4wNzIsMzIuNjU4eiIgZmlsbD0iI0M3NUM1QyIvPjwvZz48ZyBvcGFjaXR5PSIwLjIiPjxwYXRoIGQ9Ik0yMS4yNDcsMzkuNTQ1YzUuMDc0LTUuMDc0LDkuMzM3LTMuNTI2LDkuMzM3LTMuNTI2czEuNTQ5LDQuMjYzLTMuNTI2LDkuMzM3cy0xMy4yOTEsOC43Ni0xMy45MzEsOC4xMiAgICBDMTIuNTA3LDUyLjg1NSwxNi4xNzIsNDQuNjE5LDIxLjI0NywzOS41NDV6IiBmaWxsPSIjMjMxRjIwIi8+PC9nPjxnPjxwYXRoIGQ9Ik0yMS4yNDcsMzcuNTQ1YzUuMDc0LTUuMDc0LDkuMzM3LTMuNTI2LDkuMzM3LTMuNTI2czEuNTQ5LDQuMjYzLTMuNTI2LDkuMzM3cy0xMy4yOTEsOC43Ni0xMy45MzEsOC4xMiAgICBDMTIuNTA3LDUwLjg1NSwxNi4xNzIsNDIuNjE5LDIxLjI0NywzNy41NDV6IiBmaWxsPSIjRTA5OTVFIi8+PC9nPjxnPjxwYXRoIGQ9Ik0yNS40ODksMzMuMzAyYzUuMDc0LTUuMDc0LDkuMzM3LTMuNTI2LDkuMzM3LTMuNTI2czEuNTQ5LDQuMjYzLTMuNTI2LDkuMzM3cy0xMy4yOTEsOC43Ni0xMy45MzEsOC4xMiAgICBDMTYuNzQ5LDQ2LjYxMywyMC40MTUsMzguMzc2LDI1LjQ4OSwzMy4zMDJ6IiBmaWxsPSIjRjVDRjg3Ii8+PC9nPjxnIG9wYWNpdHk9IjAuMiI+PHBhdGggZD0iTTQzLjYzNCwzNy4wNzhjLTcuODEsNy44MS0xOS43ODMsNS42NzMtMTkuNzgzLDUuNjczcy0yLjEzNy0xMS45NzIsNS42NzMtMTkuNzgzICAgIHMxOS42NDMtOC42NDEsMjEuMTk3LTcuMDg3QzUyLjIyOCwxNy4zODgsNTEuNDQ1LDI5LjI2OCw0My42MzQsMzcuMDc4eiIgZmlsbD0iIzIzMUYyMCIvPjwvZz48Zz48cGF0aCBkPSJNNDMuNjM0LDM1LjA3OGMtNy44MSw3LjgxLTE5Ljc4Myw1LjY3My0xOS43ODMsNS42NzNzLTIuMTM3LTExLjk3Miw1LjY3My0xOS43ODMgICAgczE5LjY0My04LjY0MSwyMS4xOTctNy4wODdDNTIuMjI4LDE1LjM4OCw1MS40NDUsMjcuMjY4LDQzLjYzNCwzNS4wNzh6IiBmaWxsPSIjRTBFMEQxIi8+PC9nPjxnIG9wYWNpdHk9IjAuMiI+PHBhdGggZD0iTTIxLjAyMyw0Ni45OTRjLTAuNzgxLDAuNzgxLTEuMzQsMS40ODgtMi4xMjEsMC43MDdsMCwwYy0wLjc4MS0wLjc4MS0wLjA3NC0xLjM0LDAuNzA3LTIuMTIxICAgIGw5Ljg5OS0xMi43MjhjMC43ODEtMC43ODEsNC4xNjktMS40ODgsNC45NS0wLjcwN2wwLDBjMC43ODEsMC43ODEsMC4wNzQsNC4xNjktMC43MDcsNC45NUwyMS4wMjMsNDYuOTk0eiIgZmlsbD0iIzIzMUYyMCIvPjwvZz48Zz48cGF0aCBkPSJNMjEuMDIzLDQ0Ljk5NGMtMC43ODEsMC43ODEtMS4zNCwxLjQ4OC0yLjEyMSwwLjcwN2wwLDBjLTAuNzgxLTAuNzgxLTAuMDc0LTEuMzQsMC43MDctMi4xMjEgICAgbDkuODk5LTEyLjcyOGMwLjc4MS0wLjc4MSw0LjE2OS0xLjQ4OCw0Ljk1LTAuNzA3bDAsMGMwLjc4MSwwLjc4MSwwLjA3NCw0LjE2OS0wLjcwNyw0Ljk1TDIxLjAyMyw0NC45OTR6IiBmaWxsPSIjQzc1QzVDIi8+PC9nPjxnIG9wYWNpdHk9IjAuMiI+PGVsbGlwc2UgY3g9IjM5LjYwNCIgY3k9IjI3LjE1IiBmaWxsPSIjMjMxRjIwIiByeD0iNCIgcnk9IjQiIHRyYW5zZm9ybT0ibWF0cml4KDAuNzA3MSAtMC43MDcxIDAuNzA3MSAwLjcwNzEgLTcuNTk4IDM1Ljk1NjYpIi8+PC9nPjxnIG9wYWNpdHk9IjAuMiI+PGVsbGlwc2UgY3g9IjQ1LjI2MSIgY3k9IjIxLjQ5MyIgZmlsbD0iIzIzMUYyMCIgcng9IjIiIHJ5PSIyIiB0cmFuc2Zvcm09Im1hdHJpeCgwLjcwNzEgLTAuNzA3MSAwLjcwNzEgMC43MDcxIC0xLjk0MTEgMzguMjk5NykiLz48L2c+PGc+PGVsbGlwc2UgY3g9IjM5LjYwNCIgY3k9IjI1LjE1IiBmaWxsPSIjNEY1RDczIiByeD0iNCIgcnk9IjQiIHRyYW5zZm9ybT0ibWF0cml4KDAuNzA3MSAtMC43MDcxIDAuNzA3MSAwLjcwNzEgLTYuMTgzOCAzNS4zNzA4KSIvPjwvZz48Zz48ZWxsaXBzZSBjeD0iNDUuMjYxIiBjeT0iMTkuNDkzIiBmaWxsPSIjNEY1RDczIiByeD0iMiIgcnk9IjIiIHRyYW5zZm9ybT0ibWF0cml4KDAuNzA3MSAtMC43MDcxIDAuNzA3MSAwLjcwNzEgLTAuNTI2OSAzNy43MTM5KSIvPjwvZz48L2c+PGcgaWQ9IkxheWVyXzIiLz48L3N2Zz4=" alt="rocket-logo">
+            <p class="text-2xl text-blue-300 ml-4">Laravel Performance</p>
+        </div>
+        <div id="links" class="flex mt-1 ml-8">
+            <ul class="flex">
+                <li class="mr-3">
+                    <a class="inline-block rounded py-2 hover:bg-blue-700 px-6 text-white @if(request()->is('posts')) bg-blue-800 @else bg-blue-900 @endif" href="{{ url('/posts') }}">Posts</a>
+                </li>
+                <li class="mr-3">
+                    <a class="inline-block rounded py-2 hover:bg-blue-700 px-6 text-white @if(request()->is('categories')) bg-blue-800 @else bg-blue-900 @endif" href="{{ url('/categories') }}">Categories</a>
+                </li>
+                <li class="mr-3">
+                    <a class="inline-block rounded py-2 hover:bg-blue-700 px-6 text-white @if(request()->is('tags')) bg-blue-800 @else bg-blue-900 @endif" href="{{ url('/tags') }}">Tags</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div id="profile" class="w-1/5 flex items-center justify-end">
+        <div id="notifications">
+            <svg width="30" height="35" viewBox="0 0 20 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M16 10V16L18 18V19H0V18L2 16V10C2 6.65 4.36 3.85 7.5 3.17V2C7.5 1.17 8.17 0.5 9 0.5C9.83 0.5 10.5 1.17 10.5 2V3.17C13.64 3.85 16 6.65 16 10ZM10.99 20.01C10.99 21.11 10.1 22 9 22C7.9 22 7.01 21.11 7.01 20.01H10.99Z" fill="black" fill-opacity="0.54"/>
+            </svg>
+        </div>
+        <div id="user" class="ml-4">
+            <img class="rounded-full w-12 h-12" src="{{ url('avatar.png') }}" alt="user">
+        </div>
+    </div>
+</nav>
