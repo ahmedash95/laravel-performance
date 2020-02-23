@@ -10,7 +10,7 @@
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
         <!-- Styles -->
-        <link rel="stylesheet" href="{{ asset('css/tailwind.min.css') }}">
+        <link href="{{ mix('css/app.css') }}" rel="stylesheet">
     </head>
     <body class="bg-gray-300">
         @include('navbar')

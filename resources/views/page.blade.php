@@ -8,7 +8,7 @@
             @yield('actions')
         </div>
     </div>
-    <div class="mt-8">
+    <div class="mt-8 mb-20">
         @yield('page-content')
     </div>
 @endsection

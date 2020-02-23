@@ -49,5 +49,8 @@
         @endforeach
         </tbody>
     </table>
+    <div id="pagination" class="bg-white p-2">
+        {!! $posts->links() !!}
+    </div>
 </div>
 @endsection
