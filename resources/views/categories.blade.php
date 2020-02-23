@@ -13,34 +13,15 @@
         </tr>
         </thead>
         <tbody>
+        @foreach($categories as $category)
         <tr>
-            <td class="border-b px-4 py-2">GoLang</td>
+            <td class="border-b px-4 py-2">{{ $category->name }}</td>
             <td class="border-b px-4 py-2 text-center">
-                1530
+                {{ $category->posts->count() }}
             </td>
             <td class="border-b px-4 py-2">#</td>
         </tr>
-        <tr>
-            <td class="border-b px-4 py-2">PHP</td>
-            <td class="border-b px-4 py-2 text-center">
-                5323
-            </td>
-            <td class="border-b px-4 py-2">#</td>
-        </tr>
-        <tr>
-            <td class="border-b px-4 py-2">MySQL</td>
-            <td class="border-b px-4 py-2 text-center">
-                1235
-            </td>
-            <td class="border-b px-4 py-2">#</td>
-        </tr>
-        <tr>
-            <td class="border-b px-4 py-2">Rails</td>
-            <td class="border-b px-4 py-2 text-center">
-                1241
-            </td>
-            <td class="border-b px-4 py-2">#</td>
-        </tr>
+        @endforeach
         </tbody>
     </table>
 </div>
