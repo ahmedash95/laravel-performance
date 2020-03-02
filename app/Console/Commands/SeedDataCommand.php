@@ -106,7 +106,7 @@ class SeedDataCommand extends Command
     private function seedTagsLinks()
     {
         $postsCount = Post::count();
-        DB::statement('Truncate posts_tags');
+        DB::statement('Truncate post_tag');
         $this->info('linking tags');
         $this->output->progressStart($postsCount);
         Post::chunk(
@@ -124,7 +124,7 @@ class SeedDataCommand extends Command
                         }
                     }
                 );
-                DB::table('posts_tags')->insert($links);
+                DB::table('post_tag')->insert($links);
                 $this->output->progressAdvance(1000);
             }
         );

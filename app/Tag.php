@@ -9,6 +9,6 @@ class Tag extends Model
     protected $guarded = [];
 
     public function posts(){
-        return $this->belongsToMany(Post::class,'posts_tags');
+        return $this->belongsToMany(Post::class,'post_tag');
     }
 }
