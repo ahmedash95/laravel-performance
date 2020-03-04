@@ -9,7 +9,7 @@ class Post extends Model
     protected $guarded = [];
 
     public function tags(){
-        return $this->belongsToMany(Tag::class,'posts_tags');
+        return $this->belongsToMany(Tag::class,'post_tag');
     }
 
     public function user(){

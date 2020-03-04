@@ -1,6 +1,6 @@
 <?php
 
 Route::get('/',function(){ return redirect('/posts'); });
-Route::get('/posts','PostsController@index');
-Route::get('/categories','CategoriesController@index');
-Route::get('/tags','TagsController@index');
+Route::get('/posts','PostController@index');
+Route::get('/categories','CategoryController@index');
+Route::get('/tags','TagController@index');

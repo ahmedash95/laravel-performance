@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Post;
 use Illuminate\Http\Request;
 
-class PostsController extends Controller
+class PostController extends Controller
 {
     public function index(){
         $posts = Post::with('user:id,name','category:id,name','tags:tags.id,name')->paginate(50);
